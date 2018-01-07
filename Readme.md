@@ -1,4 +1,4 @@
-React example repo of a redux-like example app using setState on the root component
+#### React example repo of a redux-like example app using setState() on the root component and an update() function as main reducer
 
 All started from a tweet from @sharifsbeat :  https://twitter.com/makevoid/status/949284482221264896
 
