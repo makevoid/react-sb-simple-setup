@@ -30,4 +30,4 @@ OK, this works, it's a bit strange because I used parceljs (which is an interest
 
 ---
 
-personal note: I like parcel.js but I fill strange using async/await for importing other files, ok for performance/lazy loading but it feels overcomplicated to me.
+personal note: I like parcel.js but I fill strange using async/await for importing other files, ok for performance/lazy loading reasons but it feels overcomplicated to me.
