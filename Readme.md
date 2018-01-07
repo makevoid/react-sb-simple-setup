@@ -2,7 +2,7 @@ React example repo of a redux-like example app using setState on the root compon
 
 All started from a tweet from @sharifsbeat :  https://twitter.com/makevoid/status/949284482221264896
 
-![https://pbs.twimg.com/media/DSs6AIyXUAAvjvy.jpg:large]()
+![](https://pbs.twimg.com/media/DSs6AIyXUAAvjvy.jpg:large)
 
 
 I liked the idea a lot! I like simple stuff for simple apps, probably it's not worth going full-redux for small apps. I wanted to keep this setup:
