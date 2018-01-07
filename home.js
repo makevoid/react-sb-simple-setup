@@ -8,7 +8,7 @@ const Home = async () => {
     render() {
       return (
         <div>
-          <p>From main component: {this.context.store.counter}</p>
+          <p>From child component: {this.context.store.counter}</p>
           <button onClick={() => this.update("INC")} >INC</button>
           <button onClick={() => this.update("DEC")} >DEC</button>
         </div>

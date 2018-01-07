@@ -1,4 +1,6 @@
-#### Example repo of a redux-like example app using the state on the root component as "store" 
+## react-sb-simple-setup
+
+#### Example repo of a redux-like example app using the state on the root component as "store"
 
 All started from a tweet from @sharifsbeat :  https://twitter.com/makevoid/status/949284482221264896
 
@@ -18,6 +20,13 @@ Then on top of it the following "improvements":
 I don't like the overhead of mapStateToProps for every component. I know context can conflict with third party libraries but it's a risk I want to take for small apps.
 
 OK, this works, it's a bit strange because I used parceljs (which is an interesting alternative to webpack/rollup btw) but also because I'm binding the `setState` `App` instance on the `App` prototype. Other than that I'm pretty happy with the results. I won't use it for big apps but for small apps and prototypes I think it makes sense. If you know any way to improve this please @me on twitter or fork the repo :) .
+
+**Notes:**
+
+- App is the main component (app.js)
+- Home is an example of a child component (home.js)
+- reducer.js contains the reducer function
+- Comp is the component to propagate the context (comp.js)
 
 ---
 
