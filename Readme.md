@@ -1,4 +1,4 @@
-#### React example repo of a redux-like example app using the state on the root component as "store" 
+#### Example repo of a redux-like example app using the state on the root component as "store" 
 
 All started from a tweet from @sharifsbeat :  https://twitter.com/makevoid/status/949284482221264896
 
